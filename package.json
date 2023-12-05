@@ -1,0 +1,21 @@
+{
+  "name": "com.mcd.basic-lobby-system",
+  "version": "0.1.0",
+  "displayName": "Basic Lobby System",
+  "description": "This is an example of lobby system",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.services.lobby": "1.1.0"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Sample",
+      "description": "Basic Sample with basic UI",
+      "path": "Samples~/BasicSample"
+    }
+  ],
+  "author": {
+    "name": "Mertcan Disli",
+    "email": "mertcandisli@gmail.com"
+  }
+}
